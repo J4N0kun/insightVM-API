@@ -56,5 +56,5 @@ if os.path.isfile(RESULT_FILE_CSV):
 	os.remove(RESULT_FILE_CSV)
 with open(RESULT_FILE_CSV,"a") as f:
 	for s in result:
-		f.write(s.toCSV())
+		f.write(str(s.toCSV()))
 print(RESULT_FILE_CSV + " has been created.")

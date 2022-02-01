@@ -1,0 +1,655 @@
+[
+    {
+        "hostname": "DCPRD001.ADELLEGO.COM",
+        "ip": "192.168.16.50",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Wireshark 3.0.2"
+        ]
+    },
+    {
+        "hostname": "DCVDA001.ADELLEGO.COM",
+        "ip": "10.255.2.10",
+        "os": "Microsoft Windows Server 2012 R2 Datacenter Edition",
+        "softList": [
+            "Mozilla Firefox 78.0.2.7494"
+        ]
+    },
+    {
+        "hostname": "wistr24.adellego.com",
+        "ip": "10.5.18.102",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "ip-192-168-242-29.eu-west-1.compute.internal",
+        "ip": "192.168.242.29",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "ip-192-168-242-11.eu-west-1.compute.internal",
+        "ip": "192.168.242.11",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Adobe Flash 12.0.0.44",
+            "Adobe Flash 21.0.0.213",
+            "Microsoft Silverlight 5.1.50428.0",
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "wistr22.adellego.com",
+        "ip": "10.5.18.100",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "wistr23.adellego.com",
+        "ip": "10.5.18.101",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.50428.0",
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "WISTR20",
+        "ip": "10.5.18.30",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Microsoft Office 2013 15.0.4569.1506",
+            "Microsoft Silverlight 5.1.50918.0"
+        ]
+    },
+    {
+        "hostname": "wiein001.adellego.com",
+        "ip": "192.168.41.18",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.20913.0",
+            "Mozilla Firefox 40.0.3.5716"
+        ]
+    },
+    {
+        "hostname": "wistr06",
+        "ip": "192.168.242.30",
+        "os": "Microsoft Windows Server 2012 R2 Standard Edition",
+        "softList": [
+            "Microsoft Silverlight 5.1.50428.0"
+        ]
+    },
+    {
+        "hostname": "WKFR02789",
+        "ip": "192.168.32.140",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.207",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-192-168-242-115.eu-west-1.compute.internal",
+        "ip": "192.168.242.115",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Microsoft Office 2016 16.0.4266.1001"
+        ]
+    },
+    {
+        "hostname": "srbonmr12.adellego.com",
+        "ip": "192.168.25.12",
+        "os": "Microsoft Windows Server 2012 Standard Edition",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Adobe Flash 15.0.0.223",
+            "Microsoft Silverlight 4.0.50826.0",
+            "Microsoft Silverlight 4.0.50826.0",
+            "Mozilla Firefox 54.0.1.6388"
+        ]
+    },
+    {
+        "hostname": "WKFR06170",
+        "ip": "10.3.98.191",
+        "os": "Microsoft Windows 10 20H2",
+        "softList": [
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR03264",
+        "ip": "10.3.98.166",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR02460",
+        "ip": "192.168.45.182",
+        "os": "Microsoft Windows 10 20H2",
+        "softList": [
+            "Adobe Flash 32.0.0.445",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR04495",
+        "ip": "10.3.98.159",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-102-127.eu-west-1.compute.internal",
+        "ip": "10.3.102.127",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-102-152.eu-west-1.compute.internal",
+        "ip": "10.3.102.152",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR04704",
+        "ip": "192.168.45.166",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.445",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-102-137.eu-west-1.compute.internal",
+        "ip": "10.3.102.137",
+        "os": "Microsoft Windows 10 1607",
+        "softList": [
+            "Adobe Flash 32.0.0.445",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-99-140.eu-west-1.compute.internal",
+        "ip": "10.3.99.140",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-102-67.eu-west-1.compute.internal",
+        "ip": "10.3.102.67",
+        "os": "Microsoft Windows 10 1607",
+        "softList": [
+            "Adobe Flash 32.0.0.445",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR05000",
+        "ip": "10.3.98.141",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-99-136.eu-west-1.compute.internal",
+        "ip": "10.3.99.136",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR03263",
+        "ip": "10.3.98.181",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 19.010.20099",
+            "Adobe AIR 23.0.0.257",
+            "Adobe Flash 32.0.0.171",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-99-138.eu-west-1.compute.internal",
+        "ip": "10.3.99.138",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFRVAUPCTSP0",
+        "ip": "192.168.45.165",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "LogMeIn, Inc. GoTo Opener 1.0.539",
+            "LogMeIn, Inc. GoToMeeting 10.18.0.19932",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 15.25.8",
+            "VideoLAN VLC 3.0.16"
+        ]
+    },
+    {
+        "hostname": "ip-10-3-99-119.eu-west-1.compute.internal",
+        "ip": "10.3.99.119",
+        "os": "Microsoft Windows 10 1803",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.005.20048",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR02981",
+        "ip": "192.168.45.183",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe AIR 32.0.0.125",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR05050",
+        "ip": "10.3.98.75",
+        "os": "Microsoft Windows 10 1909",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR02201",
+        "ip": "192.168.45.120",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR03017",
+        "ip": "192.168.45.83",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe AIR 32.0.0.125",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR02948",
+        "ip": "192.168.45.155",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR04492",
+        "ip": "192.168.45.72",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR02437",
+        "ip": "192.168.45.67",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR02480",
+        "ip": "192.168.45.90",
+        "os": "Microsoft Windows 10 1607",
+        "softList": [
+            "Adobe Flash 32.0.0.445",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR01443",
+        "ip": "192.168.45.64",
+        "os": "Microsoft Windows 10 1607",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 29.0.0.171",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR00482",
+        "ip": "192.168.45.117",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Adobe PDF Reader 21.11.20039.0",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "WKFR00514",
+        "ip": "192.168.45.160",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-0-8-42.eu-west-1.compute.internal",
+        "ip": "10.0.8.42",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-0-8-20.eu-west-1.compute.internal",
+        "ip": "10.0.8.20",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.223",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "ip-10-0-9-70.eu-west-1.compute.internal",
+        "ip": "10.0.9.70",
+        "os": "Microsoft Windows 10 21H2",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "056C301",
+        "ip": "10.0.132.167",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe PDF Reader 21.7.20091.59174",
+            "Microsoft Silverlight 5.1.50907.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "056FPBM1",
+        "ip": "10.0.132.185",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Adobe PDF Reader 21.11.20039.0",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "056F40T1",
+        "ip": "10.0.132.241",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.011.20039",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "056F201",
+        "ip": "10.0.132.226",
+        "os": "Microsoft Windows 7 Professional Edition SP1",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447"
+        ]
+    },
+    {
+        "hostname": "WKFR01864",
+        "ip": "172.27.64.180",
+        "os": "Microsoft Windows 10 1709",
+        "softList": [
+            "Adobe Acrobat Reader DC 21.007.20099",
+            "Adobe AIR 32.0.0.125",
+            "Adobe Flash 32.0.0.207",
+            "Adobe Flash 32.0.0.465",
+            "Microsoft Office 2010 14.0.7015.1000",
+            "Microsoft Silverlight 5.1.50907.0",
+            "TeamViewer 13 Host (MSI Wrapper) 13.0.6447",
+            "TeamViewer 13 Host 13.0.6447",
+            "VideoLAN VLC 2.1.3"
+        ]
+    },
+    {
+        "hostname": "nbonros02.traiteur.fr.bonduelle.com",
+        "ip": "172.27.64.78",
+        "os": "Microsoft Windows Server 2003, Standard Edition SP2",
+        "softList": [
+            "Adobe Reader 8.1.0.137",
+            "Aide pour le lien d'Adobe PDF Reader 8.0.0.456"
+        ]
+    },
+    {
+        "hostname": "nbonros03.traiteur.fr.bonduelle.com",
+        "ip": "172.27.64.77",
+        "os": "Microsoft Windows Server 2003, Standard Edition SP2",
+        "softList": [
+            "Adobe Reader 8.1.2",
+            "Aide pour le lien d'Adobe PDF Reader 8.0.0.456",
+            "Microsoft Office 2003 11.0.8173.0"
+        ]
+    },
+    {
+        "hostname": "nbonros13.traiteur.fr.bonduelle.com",
+        "ip": "172.27.64.87",
+        "os": "Microsoft Windows Server 2003, Standard Edition SP2",
+        "softList": [
+            "Adobe Reader 9.0.0.332",
+            "Adobe Flash 10.1.102.64"
+        ]
+    },
+    {
+        "hostname": "nbonros12.traiteur.fr.bonduelle.com",
+        "ip": "172.27.64.86",
+        "os": "Microsoft Windows Server 2003, Standard Edition SP2",
+        "softList": [
+            "Adobe Reader 9.0.0.332",
+            "Adobe Flash 10.1.102.64"
+        ]
+    }
+]

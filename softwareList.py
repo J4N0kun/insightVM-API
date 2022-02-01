@@ -14,7 +14,7 @@ import json, os, math
 import connIvmAPI
 
 RESULT_FILE = "softwareList.txt"
-API_URL_PAGE_N = "https://MYINSIGHTVMCONSOLESERVER:3780/api/3/software?page="
+API_URL_PAGE_N = "https://nexpose.adellego.com:3780/api/3/software?page="
 NBSOFT = 10000
 URL = []
 
@@ -27,17 +27,17 @@ try:
 		data = json.load(connIvmAPI.Connect(url).getData())
 		for soft in data["resources"]:
 			softList.append(soft["description"])
-		softList = sorted(softList)	
+		softList = sorted(softList)
 	if os.path.isfile(RESULT_FILE):
 		os.remove(RESULT_FILE)
 	with open(RESULT_FILE,"a") as f:
 		for s in softList:
-			f.write(s.encode("utf-8") + os.linesep)
+			f.write(str(s.encode("utf-8")) + str(os.linesep))
 	print(RESULT_FILE+ " has been created")
-except IOError, e:
+except IOError as e:
     if hasattr(e, 'code'): # HTTPError
-        print 'http error code: ', e.code, e
+        print ('http error code: ', e.code, e)
     elif hasattr(e, 'reason'): # URLError
-        print "can't connect, reason: ", e.reason
+        print ("can't connect, reason: ", e.reason)
     else:
         raise

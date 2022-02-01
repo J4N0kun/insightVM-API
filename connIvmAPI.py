@@ -8,10 +8,10 @@
 #	This user should have profile User and MUST have access to ALL sites and ALL groups
 #	Without this privileges the user won't be able to access all assets and their details
 
-import urllib2, base64
+import urllib.request, base64, ssl
 
-USER = "MY_USER"
-PWD = "MY_PASSWORD"
+USER = "jvanberselaert"
+PWD = ""
 
 class Connect:
         def __init__(self, url):
@@ -20,7 +20,8 @@ class Connect:
                 self.url = url
         #Retrieve JSON data provided by the API
         def getData(self):
-                request = urllib2.Request(self.url)
-                base64string = base64.b64encode("%s:%s" % (self.user, self.pwd))
-                request.add_header("Authorization", "Basic %s" % base64string)
-                return urllib2.urlopen(request)
+                request = urllib.request.Request(self.url)
+                #base64string = base64.b64encode(bytes("%s:%s" % (self.user, self.pwd),'utf-8'))
+                #request.add_header("Authorization", "Basic %s" % base64string)
+                request.add_header('Authorization','Basic anZhbmJlcnNlbGFlcnQ6TWFyZ2F1eDIwMTAhISE=')
+                return urllib.request.urlopen(request, context = ssl._create_unverified_context())
